@@ -1,4 +1,3 @@
-Frontend project to Scalable Path
 
 To run this project please:
 
